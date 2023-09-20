@@ -40,7 +40,7 @@ pip install mediapipe cv2 numpy screen_brightness_control
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/GestureGlow.git
+   git clone https://github.com/sudhanshusr007/GestureGlow.git
    cd GestureGlow
    ```
 
