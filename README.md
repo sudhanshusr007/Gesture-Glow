@@ -10,7 +10,6 @@ GestureGlow is a project that allows users to control screen brightness using ha
 - [Installation](#installation)
 - [Usage](#usage)
 - [Contributing](#contributing)
-- [License](#license)
 
 ## Introduction
 
